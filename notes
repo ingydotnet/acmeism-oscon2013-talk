@@ -1,0 +1,32 @@
+- List things that Coffee added to JS
+
+
+
+
+== Driving Forces
+- Everything is data
+  - Thought is data
+  - Code is data
+  - Thought data can generate code
+
+- Culture matters
+  - Stick with yours
+  - Share with others
+
+== Important Topics
+- Package directory layout
+  - lib bin test doc
+  - meta changes readme installer
+- Package types
+  - -pm -py -rb -js -acme
+
+== Languages
+- Perl
+- Ruby
+- Node.js
+- Python
+- Perl 6
+- Bash
+
+== What is Acmeism
+- vs Polyglot
